@@ -9,7 +9,7 @@ const APP_VERSION = process.env.APP_VERSION || "v2.0";
 const menu = [
   { id: 1, name: "Test CI/CD", price: 100 },
   { id: 2, name: "Veg", price: 149 },
-  { id: 3, name: "Pasta Alfredo", price: 249 },
+  { id: 3, name: "Test Alfredo", price: 249 },
   { id: 4, name: "French Fries", price: 99 },
   { id: 5, name: "Caesar Salad", price: 199 },
   { id: 6, name: "Sushi Platter", price: 499 }
