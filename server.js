@@ -10,9 +10,9 @@ const menu = [
   { id: 1, name: "Test CI/CD", price: 100 },
   { id: 2, name: "Veg", price: 149 },
   { id: 3, name: "Test Alfredo", price: 249 },
-  { id: 4, name: "French Fries", price: 99 },
-  { id: 5, name: "Caesar Salad", price: 199 },
-  { id: 6, name: "Sushi Platteasdsadsar", price: 499 }
+  { id: 4, name: "LKsioadjsia Fries", price: 99 },
+  { id: 5, name: "asdasdsa Salad", price: 199 },
+  { id: 6, name: "asdsada Platteasdsadsar", price: 499 }
 ];
 
 // Serve static frontend
