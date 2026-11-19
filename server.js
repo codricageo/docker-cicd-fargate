@@ -12,7 +12,7 @@ const menu = [
   { id: 3, name: "Test Alfredo", price: 249 },
   { id: 4, name: "LKsioadjsia Fries", price: 99 },
   { id: 5, name: "asdasdsa Salad", price: 199 },
-  { id: 6, name: "asdsada Platteasdsadsar", price: 499 }
+  { id: 6, name: "asdsada Platteasdsadsar", price: 499 },
   { id: 7, name: "New Dish", price: 299 }
 ];
 
