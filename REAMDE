@@ -1,4 +1,0 @@
-https://learn.zerotocloud.co/courses/2924908/lectures/64304892
-i build the docker image dock
-
-docker build --platform linux/amd64 -t food-site .
