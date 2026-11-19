@@ -1,6 +1,4 @@
-# 🍔 Food Menu Service — Docker CI/CD on AWS Fargate
-
-> **Learning project** built following the [Zero to Cloud course](https://learn.zerotocloud.co/courses/2924908/lectures/64304892) — a hands-on exercise in containerizing a Node.js app and deploying it to AWS with a fully automated CI/CD pipeline.
+# 🍔 Docker CI/CD on AWS Fargate
 
 A simple food delivery menu service (Express + static frontend) used to practice the full container deployment lifecycle. The same Docker image is:
 
